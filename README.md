@@ -1,7 +1,16 @@
 toolchains
 ==========
 
-Andrioid Precompiled Toolchains
+Andrioid Precompiled Toolchains for the SGH-T769
 
-arm-eabi-4.4.3		Prebuilt toolchain from the Android project
+<table>
+  <tr>
+    <th>Toolchain</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>arm-eabi-4.4.3</td>
+    <td>Prebuilt toolchain from the Android project</td>
+  </tr>
+</table>
 
